@@ -1,6 +1,4 @@
-Implement Label-Propagation Algorithm
----
-
+LPA：
 Python-Lib Dependency:
     NetworkX
     MatPlotLib
@@ -12,3 +10,5 @@ Sample Dataset:
     sample/k.data       contains the network of friendships between the 34 members
                         of a karate club at a US university
     sample/full.data    mobile game similarities from a famous mobile game platform
+    
+文档资料：
