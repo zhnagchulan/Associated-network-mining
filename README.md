@@ -11,4 +11,4 @@ Sample Dataset:
                         of a karate club at a US university
     sample/full.data    mobile game similarities from a famous mobile game platform
     
-文档资料：
+文档资料：社区发现相关论文资料
